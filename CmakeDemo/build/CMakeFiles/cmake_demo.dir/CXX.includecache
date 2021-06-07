@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/文档/C++Project/CmakeDemo/main.cpp
+stdio.h
+-
+testFunc.h
+/home/daniel/文档/C++Project/CmakeDemo/testFunc.h
+testFunc1.h
+/home/daniel/文档/C++Project/CmakeDemo/testFunc1.h
+
+/home/daniel/文档/C++Project/CmakeDemo/testFunc.h
+
+/home/daniel/文档/C++Project/CmakeDemo/testFunc1.h
+
