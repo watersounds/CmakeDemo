@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/daniel/文档/C++Project/hello-handers/src/Hello.cpp" "/home/daniel/文档/C++Project/hello-handers/build/CMakeFiles/hello_headers.dir/src/Hello.cpp.o"
-  "/home/daniel/文档/C++Project/hello-handers/src/main.cpp" "/home/daniel/文档/C++Project/hello-handers/build/CMakeFiles/hello_headers.dir/src/main.cpp.o"
+  "/home/yrc/文档/Project/ubuntuC-Project/hello-handers/src/Hello.cpp" "/home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/CMakeFiles/hello_headers.dir/src/Hello.cpp.o"
+  "/home/yrc/文档/Project/ubuntuC-Project/hello-handers/src/main.cpp" "/home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/CMakeFiles/hello_headers.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

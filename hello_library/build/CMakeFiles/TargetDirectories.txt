@@ -1,0 +1,4 @@
+/home/yrc/文档/Project/ubuntuC-Project/hello_library/build/CMakeFiles/rebuild_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/hello_library/build/CMakeFiles/edit_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/hello_library/build/CMakeFiles/hello_binary.dir
+/home/yrc/文档/Project/ubuntuC-Project/hello_library/build/CMakeFiles/hello_library.dir

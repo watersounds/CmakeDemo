@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/shared/Hello.h
+
+/home/yrc/文档/Project/ubuntuC-Project/shared_library/src/Hello.cpp
+iostream
+-
+shared/Hello.h
+/home/yrc/文档/Project/ubuntuC-Project/shared_library/src/shared/Hello.h
+

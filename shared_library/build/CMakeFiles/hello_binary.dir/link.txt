@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello_binary.dir/src/main.cpp.o  -o hello_binary  -Wl,-rpath,/home/yrc/文档/Project/ubuntuC-Project/shared_library/build libhello_library.so 

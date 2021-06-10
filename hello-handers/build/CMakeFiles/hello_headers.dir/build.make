@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/daniel/文档/C++Project/hello-handers
+CMAKE_SOURCE_DIR = /home/yrc/文档/Project/ubuntuC-Project/hello-handers
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/daniel/文档/C++Project/hello-handers/build
+CMAKE_BINARY_DIR = /home/yrc/文档/Project/ubuntuC-Project/hello-handers/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hello_headers.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/hello_headers.dir/flags.make
 
 CMakeFiles/hello_headers.dir/src/Hello.cpp.o: CMakeFiles/hello_headers.dir/flags.make
 CMakeFiles/hello_headers.dir/src/Hello.cpp.o: ../src/Hello.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/daniel/文档/C++Project/hello-handers/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello_headers.dir/src/Hello.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello_headers.dir/src/Hello.cpp.o -c /home/daniel/文档/C++Project/hello-handers/src/Hello.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello_headers.dir/src/Hello.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello_headers.dir/src/Hello.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/hello-handers/src/Hello.cpp
 
 CMakeFiles/hello_headers.dir/src/Hello.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_headers.dir/src/Hello.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/daniel/文档/C++Project/hello-handers/src/Hello.cpp > CMakeFiles/hello_headers.dir/src/Hello.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yrc/文档/Project/ubuntuC-Project/hello-handers/src/Hello.cpp > CMakeFiles/hello_headers.dir/src/Hello.cpp.i
 
 CMakeFiles/hello_headers.dir/src/Hello.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_headers.dir/src/Hello.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/daniel/文档/C++Project/hello-handers/src/Hello.cpp -o CMakeFiles/hello_headers.dir/src/Hello.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yrc/文档/Project/ubuntuC-Project/hello-handers/src/Hello.cpp -o CMakeFiles/hello_headers.dir/src/Hello.cpp.s
 
 CMakeFiles/hello_headers.dir/src/main.cpp.o: CMakeFiles/hello_headers.dir/flags.make
 CMakeFiles/hello_headers.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/daniel/文档/C++Project/hello-handers/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello_headers.dir/src/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello_headers.dir/src/main.cpp.o -c /home/daniel/文档/C++Project/hello-handers/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello_headers.dir/src/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello_headers.dir/src/main.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/hello-handers/src/main.cpp
 
 CMakeFiles/hello_headers.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_headers.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/daniel/文档/C++Project/hello-handers/src/main.cpp > CMakeFiles/hello_headers.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yrc/文档/Project/ubuntuC-Project/hello-handers/src/main.cpp > CMakeFiles/hello_headers.dir/src/main.cpp.i
 
 CMakeFiles/hello_headers.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_headers.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/daniel/文档/C++Project/hello-handers/src/main.cpp -o CMakeFiles/hello_headers.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yrc/文档/Project/ubuntuC-Project/hello-handers/src/main.cpp -o CMakeFiles/hello_headers.dir/src/main.cpp.s
 
 # Object files for target hello_headers
 hello_headers_OBJECTS = \
@@ -95,7 +95,7 @@ hello_headers: CMakeFiles/hello_headers.dir/src/Hello.cpp.o
 hello_headers: CMakeFiles/hello_headers.dir/src/main.cpp.o
 hello_headers: CMakeFiles/hello_headers.dir/build.make
 hello_headers: CMakeFiles/hello_headers.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/daniel/文档/C++Project/hello-handers/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hello_headers"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hello_headers"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello_headers.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/hello_headers.dir/clean:
 .PHONY : CMakeFiles/hello_headers.dir/clean
 
 CMakeFiles/hello_headers.dir/depend:
-	cd /home/daniel/文档/C++Project/hello-handers/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/daniel/文档/C++Project/hello-handers /home/daniel/文档/C++Project/hello-handers /home/daniel/文档/C++Project/hello-handers/build /home/daniel/文档/C++Project/hello-handers/build /home/daniel/文档/C++Project/hello-handers/build/CMakeFiles/hello_headers.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/yrc/文档/Project/ubuntuC-Project/hello-handers/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yrc/文档/Project/ubuntuC-Project/hello-handers /home/yrc/文档/Project/ubuntuC-Project/hello-handers /home/yrc/文档/Project/ubuntuC-Project/hello-handers/build /home/yrc/文档/Project/ubuntuC-Project/hello-handers/build /home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/CMakeFiles/hello_headers.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/hello_headers.dir/depend
 

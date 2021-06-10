@@ -1,4 +1,4 @@
-# Install script for directory: /home/daniel/文档/C++Project/hello-handers
+# Install script for directory: /home/yrc/文档/Project/ubuntuC-Project/hello-handers
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/daniel/文档/C++Project/hello-handers/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
