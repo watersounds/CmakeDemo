@@ -1,0 +1,10 @@
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/CMakeFiles/rebuild_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/CMakeFiles/edit_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/sublibrary1/CMakeFiles/rebuild_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/sublibrary1/CMakeFiles/edit_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/sublibrary1/CMakeFiles/sublibrary1.dir
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/sublibrary2/CMakeFiles/rebuild_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/sublibrary2/CMakeFiles/edit_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/subbinary/CMakeFiles/rebuild_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/subbinary/CMakeFiles/edit_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/build/subbinary/CMakeFiles/subbinary.dir

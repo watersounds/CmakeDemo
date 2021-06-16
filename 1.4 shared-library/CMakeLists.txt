@@ -22,7 +22,7 @@ add_executable(hello_binary
     src/main.cpp
 )
 #链接库和可执行文件，使用的是这个库的别名。PRIVATE 表示
-target_link_libraries( hello_binary
+target_link_libraries(hello_binary
     PRIVATE 
         hello::library
 )

@@ -1,0 +1,3 @@
+/home/yrc/文档/Project/ubuntuC-Project/1.7 include-third-party-library/build/CMakeFiles/rebuild_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/1.7 include-third-party-library/build/CMakeFiles/edit_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/1.7 include-third-party-library/build/CMakeFiles/third_party_include.dir

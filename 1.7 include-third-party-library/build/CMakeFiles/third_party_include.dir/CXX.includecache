@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yrc/文档/Project/ubuntuC-Project/1.7 include-third-party-library/main.cpp
+iostream
+-
+boost/shared_ptr.hpp
+-
+boost/filesystem.hpp
+-
+

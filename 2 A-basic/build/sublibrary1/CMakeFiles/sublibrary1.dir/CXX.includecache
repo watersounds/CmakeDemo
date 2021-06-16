@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../sublibrary1/include/sublib1/sublib1.h
+
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/sublibrary1/src/sublib1.cpp
+iostream
+-
+sublib1/sublib1.h
+/home/yrc/文档/Project/ubuntuC-Project/2 A-basic/sublibrary1/src/sublib1/sublib1.h
+
