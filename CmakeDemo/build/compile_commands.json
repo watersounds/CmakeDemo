@@ -1,17 +1,17 @@
 [
 {
-  "directory": "/home/daniel/文档/C++Project/CmakeDemo/build/src",
-  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/daniel/文档/C++Project/CmakeDemo/src/../include  -g   -o CMakeFiles/cmake_demo.dir/main.cpp.o -c /home/daniel/文档/C++Project/CmakeDemo/src/main.cpp",
-  "file": "/home/daniel/文档/C++Project/CmakeDemo/src/main.cpp"
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I../src/../include -g -o src/CMakeFiles/cmake_demo.dir/main.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/src/main.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/src/main.cpp"
 },
 {
-  "directory": "/home/daniel/文档/C++Project/CmakeDemo/build/src",
-  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/daniel/文档/C++Project/CmakeDemo/src/../include  -g   -o CMakeFiles/cmake_demo.dir/testFunc.cpp.o -c /home/daniel/文档/C++Project/CmakeDemo/src/testFunc.cpp",
-  "file": "/home/daniel/文档/C++Project/CmakeDemo/src/testFunc.cpp"
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I../src/../include -g -o src/CMakeFiles/cmake_demo.dir/testFunc.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/src/testFunc.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/src/testFunc.cpp"
 },
 {
-  "directory": "/home/daniel/文档/C++Project/CmakeDemo/build/src",
-  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/daniel/文档/C++Project/CmakeDemo/src/../include  -g   -o CMakeFiles/cmake_demo.dir/testFunc1.cpp.o -c /home/daniel/文档/C++Project/CmakeDemo/src/testFunc1.cpp",
-  "file": "/home/daniel/文档/C++Project/CmakeDemo/src/testFunc1.cpp"
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I../src/../include -g -o src/CMakeFiles/cmake_demo.dir/testFunc1.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/src/testFunc1.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/src/testFunc1.cpp"
 }
 ]

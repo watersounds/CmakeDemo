@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/nanodet_ncnn/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I../include -isystem /home/yrc/opencvlib/include/opencv4 -isystem /home/yrc/文档/ncnn/ncnn/build/install/include/ncnn -g -fPIE -fopenmp -pthread -o CMakeFiles/nanodet_ncnn.dir/src/nanodet.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/nanodet_ncnn/src/nanodet.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/nanodet_ncnn/src/nanodet.cpp"
+},
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/nanodet_ncnn/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I../include -isystem /home/yrc/opencvlib/include/opencv4 -isystem /home/yrc/文档/ncnn/ncnn/build/install/include/ncnn -g -fPIE -fopenmp -pthread -o CMakeFiles/nanodet_ncnn.dir/src/main.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/nanodet_ncnn/src/main.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/nanodet_ncnn/src/main.cpp"
+}
+]

@@ -1,0 +1,6 @@
+# ninja log v5
+0	38	1624000761390679139	src/CMakeFiles/cmake_demo.dir/main.cpp.o	e9f1dcae5ddc1840
+1	38	1624000761390679139	src/CMakeFiles/cmake_demo.dir/testFunc.cpp.o	4a3770ceaebbceb
+1	38	1624000761390679139	src/CMakeFiles/cmake_demo.dir/testFunc1.cpp.o	6364dbc8143e8386
+38	58	1624000761410678996	../bin/cmake_demo	6b270a561330ab11
+1	22	1624000847766093374	../bin/cmake_demo	6b270a561330ab11

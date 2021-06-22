@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/opencvTest/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -isystem /home/yrc/opencvlib/include/opencv4 -g -o CMakeFiles/opencv_test.dir/src/opencv_test.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/opencvTest/src/opencv_test.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/opencvTest/src/opencv_test.cpp"
+}
+]

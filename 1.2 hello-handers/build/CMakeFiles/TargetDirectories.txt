@@ -1,3 +1,3 @@
-/home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/CMakeFiles/rebuild_cache.dir
-/home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/CMakeFiles/edit_cache.dir
-/home/yrc/文档/Project/ubuntuC-Project/hello-handers/build/CMakeFiles/hello_headers.dir
+/home/yrc/文档/Project/ubuntuC-Project/1.2 hello-handers/build/CMakeFiles/rebuild_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/1.2 hello-handers/build/CMakeFiles/edit_cache.dir
+/home/yrc/文档/Project/ubuntuC-Project/1.2 hello-handers/build/CMakeFiles/hello_headers.dir

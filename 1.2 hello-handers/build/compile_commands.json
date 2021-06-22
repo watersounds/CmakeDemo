@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/1.2 hello-handers/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I../include -g -o CMakeFiles/hello_headers.dir/src/Hello.cpp.o -c \"/home/yrc/文档/Project/ubuntuC-Project/1.2 hello-handers/src/Hello.cpp\"",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/1.2 hello-handers/src/Hello.cpp"
+},
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/1.2 hello-handers/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I../include -g -o CMakeFiles/hello_headers.dir/src/main.cpp.o -c \"/home/yrc/文档/Project/ubuntuC-Project/1.2 hello-handers/src/main.cpp\"",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/1.2 hello-handers/src/main.cpp"
+}
+]

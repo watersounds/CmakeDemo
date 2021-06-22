@@ -1,4 +1,4 @@
-# Install script for directory: /home/daniel/文档/C++Project/CmakeDemo
+# Install script for directory: /home/yrc/文档/Project/ubuntuC-Project/CmakeDemo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -37,9 +37,14 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
+# Set default install directory permissions.
+if(NOT DEFINED CMAKE_OBJDUMP)
+  set(CMAKE_OBJDUMP "/bin/x86_64-linux-gnu-objdump")
+endif()
+
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/daniel/文档/C++Project/CmakeDemo/build/src/cmake_install.cmake")
+  include("/home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/build/src/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +56,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/daniel/文档/C++Project/CmakeDemo/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/yrc/文档/Project/ubuntuC-Project/CmakeDemo/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
