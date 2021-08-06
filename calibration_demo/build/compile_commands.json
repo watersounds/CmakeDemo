@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -isystem /home/yrc/opencvlib/include/opencv4 -g -o CMakeFiles/camera_calibration.dir/camera_calibration/camera_calibration.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/calibration_demo/camera_calibration/camera_calibration.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/camera_calibration/camera_calibration.cpp"
+},
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -isystem /home/yrc/opencvlib/include/opencv4 -g -o CMakeFiles/stereo_match.dir/src/stereo_match.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/calibration_demo/src/stereo_match.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/src/stereo_match.cpp"
+},
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -isystem /home/yrc/opencvlib/include/opencv4 -g -o CMakeFiles/stereo_calib.dir/src/stereo_calib.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/calibration_demo/src/stereo_calib.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/src/stereo_calib.cpp"
+},
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -isystem /home/yrc/opencvlib/include/opencv4 -g -o CMakeFiles/imagelist_creator.dir/src/imagelist_creator.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/calibration_demo/src/imagelist_creator.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/src/imagelist_creator.cpp"
+},
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -isystem /home/yrc/opencvlib/include/opencv4 -g -o CMakeFiles/calibration.dir/src/calibration.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/calibration_demo/src/calibration.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/src/calibration.cpp"
+},
+{
+  "directory": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -isystem /home/yrc/opencvlib/include/opencv4 -g -o CMakeFiles/correction.dir/camera_calibration/correction.cpp.o -c /home/yrc/文档/Project/ubuntuC-Project/calibration_demo/camera_calibration/correction.cpp",
+  "file": "/home/yrc/文档/Project/ubuntuC-Project/calibration_demo/camera_calibration/correction.cpp"
+}
+]

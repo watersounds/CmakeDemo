@@ -14,7 +14,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -29,7 +30,8 @@
 					"name" : "opencv_test",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -38,8 +40,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "opencv_test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-opencv_test-Debug-4d670c8b40c8d70c656c.json",
+					"jsonFile" : "target-opencv_test-Debug-2d37b3ff650a5499347c.json",
 					"name" : "opencv_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_Homography::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_Homography-Debug-828494f829606f0f1c31.json",
+					"name" : "test_Homography",
 					"projectIndex" : 0
 				}
 			]

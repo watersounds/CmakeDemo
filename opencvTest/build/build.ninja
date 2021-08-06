@@ -46,6 +46,39 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
 
 build edit_cache: phony CMakeFiles/edit_cache.util
 
+# =============================================================================
+# Object build statements for EXECUTABLE target test_Homography
+
+
+#############################################
+# Order-only phony target for test_Homography
+
+build cmake_object_order_depends_target_test_Homography: phony || CMakeFiles/test_Homography.dir
+
+build CMakeFiles/test_Homography.dir/src/test_Homography.cpp.o: CXX_COMPILER__test_Homography_Debug ../src/test_Homography.cpp || cmake_object_order_depends_target_test_Homography
+  DEP_FILE = CMakeFiles/test_Homography.dir/src/test_Homography.cpp.o.d
+  FLAGS = -g
+  INCLUDES = -isystem /home/yrc/opencvlib/include/opencv4
+  OBJECT_DIR = CMakeFiles/test_Homography.dir
+  OBJECT_FILE_DIR = CMakeFiles/test_Homography.dir/src
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target test_Homography
+
+
+#############################################
+# Link the executable ../bin/test_Homography
+
+build ../bin/test_Homography: CXX_EXECUTABLE_LINKER__test_Homography_Debug CMakeFiles/test_Homography.dir/src/test_Homography.cpp.o | /home/yrc/opencvlib/lib/libopencv_gapi.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_stitching.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_aruco.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_bgsegm.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_bioinspired.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_ccalib.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_dnn_objdetect.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_dnn_superres.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_dpm.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_face.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_freetype.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_fuzzy.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_hfs.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_img_hash.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_intensity_transform.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_line_descriptor.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_mcc.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_quality.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_rapid.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_reg.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_rgbd.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_saliency.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_stereo.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_structured_light.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_superres.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_surface_matching.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_tracking.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_videostab.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_wechat_qrcode.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_xfeatures2d.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_xobjdetect.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_xphoto.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_shape.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_highgui.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_datasets.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_plot.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_text.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_ml.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_phase_unwrapping.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_optflow.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_ximgproc.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_video.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_videoio.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_dnn.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_imgcodecs.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_objdetect.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_calib3d.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_features2d.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_flann.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_photo.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_imgproc.so.4.5.2 /home/yrc/opencvlib/lib/libopencv_core.so.4.5.2
+  FLAGS = -g
+  LINK_LIBRARIES = -Wl,-rpath,/home/yrc/opencvlib/lib  /home/yrc/opencvlib/lib/libopencv_gapi.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_stitching.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_aruco.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_bgsegm.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_bioinspired.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_ccalib.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_dnn_objdetect.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_dnn_superres.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_dpm.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_face.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_freetype.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_fuzzy.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_hfs.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_img_hash.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_intensity_transform.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_line_descriptor.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_mcc.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_quality.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_rapid.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_reg.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_rgbd.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_saliency.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_stereo.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_structured_light.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_superres.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_surface_matching.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_tracking.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_videostab.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_wechat_qrcode.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_xfeatures2d.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_xobjdetect.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_xphoto.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_shape.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_highgui.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_datasets.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_plot.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_text.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_ml.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_phase_unwrapping.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_optflow.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_ximgproc.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_video.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_videoio.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_dnn.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_imgcodecs.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_objdetect.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_calib3d.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_features2d.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_flann.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_photo.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_imgproc.so.4.5.2  /home/yrc/opencvlib/lib/libopencv_core.so.4.5.2
+  OBJECT_DIR = CMakeFiles/test_Homography.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = ../bin/test_Homography
+  TARGET_PDB = test_Homography.dbg
+
 
 #############################################
 # Utility command for rebuild_cache
@@ -96,6 +129,8 @@ build ../bin/opencv_test: CXX_EXECUTABLE_LINKER__opencv_test_Debug CMakeFiles/op
 
 build opencv_test: phony ../bin/opencv_test
 
+build test_Homography: phony ../bin/test_Homography
+
 # =============================================================================
 # Folder targets.
 
@@ -104,7 +139,7 @@ build opencv_test: phony ../bin/opencv_test
 #############################################
 # Folder: /home/yrc/文档/Project/ubuntuC-Project/opencvTest/build
 
-build all: phony ../bin/opencv_test
+build all: phony ../bin/test_Homography ../bin/opencv_test
 
 # =============================================================================
 # Built-in targets
